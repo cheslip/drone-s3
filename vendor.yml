@@ -1,0 +1,17 @@
+vendors:
+- path: github.com/Sirupsen/logrus
+  rev: a283a10442df8dc09befd873fab202bf8a253d6a
+- path: github.com/aws/aws-sdk-go
+  rev: 5fbcfa00ec930ccaa641b404adece72bf96e3667
+- path: github.com/go-ini/ini
+  rev: cf53f9204df4fbdd7ec4164b57fa6184ba168292
+- path: github.com/jmespath/go-jmespath
+  rev: 0b12d6b521d83fc7f755e7cfc1b1fbdd35a01a74
+- path: github.com/joho/godotenv
+  rev: 4ed13390c0acd2ff4e371e64d8b97c8954138243
+- path: github.com/mattn/go-zglob
+  rev: 2dbd7f37a45e993d5180a251b4bdd314d6333b70
+- path: github.com/urfave/cli
+  rev: 11c134509d89c2018675f369955218a180dc7428
+- path: golang.org/x/sys
+  rev: a646d33e2ee3172a661fc09bca23bb4889a41bc8
